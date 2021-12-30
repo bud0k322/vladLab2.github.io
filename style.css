@@ -20,7 +20,7 @@ header {
     align-items: center;
     
 
-    background: #ECAD73;  
+    background: #00aff0;
 }
 
 .header__button1 {
@@ -28,7 +28,7 @@ header {
 
     width: 100px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -46,7 +46,7 @@ header {
 .header__button2 {
     width: 150px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -76,7 +76,7 @@ header {
 
     width: 170px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -96,7 +96,7 @@ header {
 
     width: 170px;
     height: 30px;
-    background: #ECAD73;
+    background: #00aff0;
     cursor: pointer;
     border: none;
 
@@ -121,7 +121,7 @@ header {
 .title__button {
     width: 400px;
     height: 85px;
-    background: #ECAD73;
+    background: #00aff0;
     border-radius: 15px;
     font-weight: bold;
     font-size: 48px;
@@ -140,7 +140,7 @@ header {
     line-height: 60px;
     text-align: center;
     
-    color: #ECAD73;        
+    color: #00aff0;
 }
 
 .wrapper {
@@ -194,7 +194,7 @@ header {
 .div2__button {
     width: 200px;
     height: 60px;
-    background: #ECAD73;
+    background: #00aff0;
     border-radius: 15px;
     font-weight: bold;
     font-size: 22px;
@@ -229,7 +229,7 @@ footer {
     font-size: 30px;
     line-height: 29px;
   
-    color: #ECAD73;
+    color: #00aff0;
 }
 
 .footer__div1, .footer__div2 {
